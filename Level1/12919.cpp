@@ -1,4 +1,4 @@
-// 평균 구하기
+// 서울에서 김서방 찾기
 // Programmers Link : https://school.programmers.co.kr/learn/courses/30/lessons/12919
 // Notion Link : https://www.notion.so/30071cad3a5546cb92a5db9cfd73bcd7?pvs=4
 
