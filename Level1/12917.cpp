@@ -1,4 +1,4 @@
-// 나누어 떨어지는 숫자 배열 
+// 문자열 내림차순으로 배치하기
 // Programmers Link : https://school.programmers.co.kr/learn/courses/30/lessons/12917
 // Notion Link : https://www.notion.so/70def00161914de38ec88678e62ebcb4?pvs=4
 
